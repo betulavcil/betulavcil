@@ -1,11 +1,6 @@
-[! [MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3puenY4eHQwOGl6cTI0NGptejdoODEwMGFhZzlzdXE5cmk2M2t5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif)
-
+[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3puenY4eHQwOGl6cTI0NGptejdoODEwMGFhZzlzdXE5cmk2M2t5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif)
 <h1 align="center">Hi 👋, I'm Betül Avcıl</h1>
 <h3 align="center">Data Scientist | Mechatronics Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=betulavcil&label=Profile%20views&color=0e75b6&style=flat" alt="betulavcil" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=betulavcil" alt="betulavcil" /></a> </p>
 
 - 🌱 I’m currently learning **machine learning**
 
@@ -15,7 +10,6 @@
 
 - 📫 How to reach me **blavcil@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/betulavcil](www.linkedin.com/in/betulavcil)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
