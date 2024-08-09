@@ -1,4 +1,4 @@
-[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3puenY4eHQwOGl6cTI0NGptejdoODEwMGFhZzlzdXE5cmk2M2t5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif)
+[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWo2aXV1Ym5jamZrbjBkaHhjdnJzenZqOTB4dGZweHV1NnVkd3dzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 <h1 align="center">Hi 👋, I'm Betül Avcıl</h1>
 <h3 align="center">Data Scientist | Mechatronics Engineer</h3>
 
