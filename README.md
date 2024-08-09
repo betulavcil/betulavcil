@@ -4,10 +4,6 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/betulavcil](https://github.com/betulavcil)
-
-- 📝 I regularly write articles on [https://medium.com/@betulavcil](https://medium.com/@betulavcil)
-
 - 📫 How to reach me **blavcil@gmail.com**
 
 
