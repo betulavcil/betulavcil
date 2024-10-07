@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Betül Avcıl</h1>
 <h3 align="center">Data Scientist | Mechatronics Engineer</h3>
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **machine learning** and **deep learning**
 
 - 📫 How to reach me **blavcil@gmail.com**
 
